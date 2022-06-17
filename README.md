@@ -2,7 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Mobile_C4_19
+
+- Putri Aulia Romadhon (1915026023)
+- Febriani Nurjayanti (1915026004)
+- Ummi Hani (1915026012)
+- Suci Rahmadani (1915026014)
 
 This project is a starting point for a Flutter application.
 
