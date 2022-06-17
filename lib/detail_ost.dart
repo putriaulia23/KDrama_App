@@ -81,8 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 Image(
                   image: AssetImage("assets/images/poster ost.jpg"),
                   color: Colors.black.withOpacity(0.9),
-                  colorBlendMode: BlendMode.softLight,
-                ),
+                  colorBlendMode: BlendMode.softLight,),
                 SafeArea(
                   child: Padding(
                   padding: EdgeInsets.only(top: 75, left: 165),
