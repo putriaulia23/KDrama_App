@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459353919495",
+    "project_id": "pa-kdrama",
+    "storage_bucket": "pa-kdrama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459353919495:android:8d453d8b605f25908b1aa2",
+        "android_client_info": {
+          "package_name": "com.example.coba_youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459353919495-mg9r7v7i4hqhq0cs3b0goshc0tqbbter.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhH8kO3SLYr2WgwfZkVaUwykxuMwmlreA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459353919495-mg9r7v7i4hqhq0cs3b0goshc0tqbbter.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
